@@ -14,7 +14,7 @@ const raphael = {
     vamosConversarSobre: ["web dev", "tech", "front"],
     tecnologias: {
         backEnd: {
-            .Net: ["Entity framework", "Code First", "Model-View-Controller"],
+            .Net: ["Entity framework", "Code First", "MVC"],
         },
         frontEnd: {
             Angular: ["HTML5", "CSS3 + Sass", "Javascript", "Typescript..."]
