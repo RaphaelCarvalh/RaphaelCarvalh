@@ -2,10 +2,9 @@
 <img align='right' src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="230">
 <p><em>Desenvolvedor FullStack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelmcarvalho/)
+[![Linkedin: Raphael](https://img.shields.io/badge/-raphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelmcarvalho/)](https://www.linkedin.com/in/raphaelmcarvalho/)
+[![Protfólio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://raphaelcarvalh.github.io/SiteResponsivo/)](https://raphaelcarvalh.github.io/SiteResponsivo/)
 
-
-[Protfólio](https://raphaelcarvalh.github.io/SiteResponsivo/)
 
 
 </em></p>
