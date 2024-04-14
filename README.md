@@ -38,7 +38,7 @@ const raphael = {
 - Desenvolvimento fullStack, página para gerenciamento de coleções de moda: [ClothingCollection](https://github.com/RaphaelCarvalh/ClothingCollection)
 - Desenvolvimento de plataformas responsivas: [SiteMultiplataforma](https://raphaelcarvalh.github.io/SiteResponsivo/)
 - Implementação sistema de filas usando RabbitMQ: [CriaçãoEConsumoDeFilas](https://github.com/RaphaelCarvalh/rabbitMQSim?tab=readme-ov-file#rabbitmqsim)
-- Página de músicas em Angular consumindo APi do spotify [](link)
+- Página de músicas em Angular consumindo APi do spotify: [PlayerWeb](https://github.com/RaphaelCarvalh/PlayerWebMusic)
 - Sistemas de votação usando docker e AWS [](link)
 - Assistente de compras inteligente [](link)
   
