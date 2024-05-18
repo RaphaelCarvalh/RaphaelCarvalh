@@ -41,7 +41,7 @@ const raphael = {
 - Página de músicas em Angular consumindo APi do spotify: [PlayerWeb](https://github.com/RaphaelCarvalh/PlayerWebMusic)
 - Sistemas de votação usando docker e AWS [](link)
 - Assistente de compras inteligente [](link)
-- Criação de um chatBot com React consumindo API da OpenIA para interação: [MyChat](https://github.com/RaphaelCarvalh/MyChatIA.git)
+- Algumas páginas para desenvolvimento de habilidades HTML5 e CSS3 [Pages](https://github.com/RaphaelCarvalh/FrontendModels/tree/main)
   
 ---
 
