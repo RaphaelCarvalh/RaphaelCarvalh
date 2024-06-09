@@ -41,7 +41,7 @@ const raphael = {
 - Página de músicas em Angular consumindo APi do spotify: [PlayerWeb](https://github.com/RaphaelCarvalh/PlayerWebMusic)
 - Sistemas de votação usando docker e AWS [](link)
 - Assistente de compras inteligente [](link)
-- Algumas páginas para desenvolvimento de habilidades HTML5 e CSS3: [Pages](https://github.com/RaphaelCarvalh/FrontendModels/tree/main)
+- Algumas páginas web padrões para desenvolvimento de habilidades HTML5 e CSS3: [Pages](https://github.com/RaphaelCarvalh/FrontendModels/tree/main)
   
 ---
 
