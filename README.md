@@ -40,7 +40,7 @@ const raphael = {
 - Implementação sistema de filas usando RabbitMQ: [CriaçãoEConsumoDeFilas](https://github.com/RaphaelCarvalh/rabbitMQSim?tab=readme-ov-file#rabbitmqsim)
 - Página de músicas em Angular consumindo APi do spotify: [PlayerWeb](https://github.com/RaphaelCarvalh/PlayerWebMusic)
 - Sistema de busca em arquivos digitais ou digitalizados com porcessamento OCR:  [PyScam](https://github.com/RaphaelCarvalh/SistemaDeBuscaArquivosPDF)
-- Assistente de compras inteligente [](link)
+- Plataforma de Pré-Market para operação de futuros: [](link)
 - Algumas páginas web criadas a partir do Angular: [Acesse as páginas aqui!!](https://github.com/RaphaelCarvalh/FrontendModels/tree/main)
   
 ---
