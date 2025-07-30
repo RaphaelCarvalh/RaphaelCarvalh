@@ -45,6 +45,8 @@ const raphael = {
 - Plataforma de Pré-Market para operação de futuros: [FinHub](https://github.com/RaphaelCarvalh/FinhubDemo)
 - Algumas páginas web criadas a partir do Angular: [Acesse as páginas aqui!!](https://github.com/RaphaelCarvalh/FrontendModels/tree/main)
 - Bot de atendimento whattsapp com IA generativa: [Mercurio AI](https://github.com/RaphaelCarvalh/MarcurioAIBot/tree/main)
+- Sites completos para lojistas, aréa de membros, treinamento, dashboards e etc..: [Conecta Soluções](https://conectasolucoes.vercel.app/)
+
   
 ---
 
