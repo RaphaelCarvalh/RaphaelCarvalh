@@ -42,6 +42,7 @@ const raphael = {
 - Sistema de busca em arquivos digitais ou digitalizados com porcessamento OCR:  [PyScam](https://github.com/RaphaelCarvalh/SistemaDeBuscaArquivosPDF)
 - Plataforma de Pré-Market para operação de futuros: [FinHub](https://github.com/RaphaelCarvalh/FinhubDemo)
 - Algumas páginas web criadas a partir do Angular: [Acesse as páginas aqui!!](https://github.com/RaphaelCarvalh/FrontendModels/tree/main)
+- Bot de atendimento whattsapp com IA generativa: [Acesse as páginas aqui!!](https://github.com/RaphaelCarvalh/MarcurioAIBot/tree/main)
   
 ---
 
