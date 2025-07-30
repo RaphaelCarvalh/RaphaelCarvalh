@@ -24,10 +24,12 @@ const raphael = {
         },
         devOps: ["AWS Certified", "Docker", "Route53", "kubernets"],
         },
-        bancosDeDados: ["mongo", "MySql", "sqlite"],        
+        bancosDeDados: ["mongo", "MySql", "sqlite"],
+        },
+        NUvem: ["GCP", "AWS 2xcertified"],             
     },
     arquiteturas: ["Serverless", "Progressive web applications", "Single page applications", "Model-View-Controller"],
-    focadoEm: "Certificação AWS praticioner",
+    focadoEm: "Certificação AWS",
     funFact: "Programadores de verdade contam a partir do zero."
 };
 ```
